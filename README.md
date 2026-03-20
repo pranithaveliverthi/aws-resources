@@ -1,33 +1,33 @@
 <div align="center"> 
   <h1>🚀 AWS Complete Hands‑On Guides 🌟</h1>
   
-  <a href="https://github.com/anveshmuppeda/aws">
+  <a href="https://github.com/pranithaveliverthi/aws">
     <img src="https://readme-typing-svg.demolab.com?font=italic&weight=700&size=18&duration=4000&pause=1500&color=FF9900&center=true&width=600&lines=Learn+AWS+with+hands-on+guides+and+real+projects." alt="Typing SVG" />
   </a>  
 
   <br/>
 
   <!-- GitHub Repo Shields -->
-  <img src="https://img.shields.io/github/forks/anveshmuppeda/aws" alt="Forks"/>
-  <img src="https://img.shields.io/github/stars/anveshmuppeda/aws" alt="Stars"/>
-  <img src="https://img.shields.io/github/watchers/anveshmuppeda/aws" alt="Watchers"/>
-  <img src="https://img.shields.io/github/last-commit/anveshmuppeda/aws" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/commit-activity/m/anveshmuppeda/aws" alt="Commit Activity"/>
-  <img src="https://img.shields.io/github/repo-size/anveshmuppeda/aws" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/forks/pranithaveliverthi/aws" alt="Forks"/>
+  <img src="https://img.shields.io/github/stars/pranithaveliverthi/aws" alt="Stars"/>
+  <img src="https://img.shields.io/github/watchers/pranithaveliverthi/aws" alt="Watchers"/>
+  <img src="https://img.shields.io/github/last-commit/pranithaveliverthi/aws" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/commit-activity/m/pranithaveliverthi/aws" alt="Commit Activity"/>
+  <img src="https://img.shields.io/github/repo-size/pranithaveliverthi/aws" alt="Repo Size"/>
   <img src="https://img.shields.io/static/v1?label=Support&message=If%20Useful&style=flat&color=BC4E99" alt="Support Badge"/>
 
 
   <img src="https://awesome.re/badge.svg" alt="Awesome"/>
-  <a href="https://github.com/anveshmuppeda/aws/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/anveshmuppeda/aws" alt="GitHub contributors"/>
+  <a href="https://github.com/pranithaveliverthi/aws/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/pranithaveliverthi/aws" alt="GitHub contributors"/>
   </a>
-  <a href="https://github.com/anveshmuppeda/aws/issues">
-    <img src="https://img.shields.io/github/issues/anveshmuppeda/aws" alt="Open Issues"/>
+  <a href="https://github.com/pranithaveliverthi/aws/issues">
+    <img src="https://img.shields.io/github/issues/pranithaveliverthi/aws" alt="Open Issues"/>
   </a>
-  <a href="https://github.com/anveshmuppeda/aws/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/anveshmuppeda/aws" alt="Open PRs"/>
+  <a href="https://github.com/pranithaveliverthi/aws/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/pranithaveliverthi/aws" alt="Open PRs"/>
   </a>
-  <a href="https://github.com/anveshmuppeda/aws/pulls">
+  <a href="https://github.com/pranithaveliverthi/aws/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/>
   </a>
 </div>
@@ -35,13 +35,13 @@
 ---
 
 <div align="center">
-  <h2><b>Author: <a href="https://github.com/anveshmuppeda">Anvesh Muppeda</a> 
+  <h2><b>Author: <a href="https://github.com/pranithaveliverthi">Anvesh Muppeda</a> 
     <img src="https://avatars.githubusercontent.com/u/115966808?v=4&s=20" alt="Profile Pic"/></b>
   </h2>
   <p><i>Cloud Engineer | Kubernetes Developer | Open Source Contributor</i></p>
 
   <!-- Social Media Badges -->
-  <a href="https://www.linkedin.com/in/anveshmuppeda/">
+  <a href="https://www.linkedin.com/in/pranithaveliverthi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/Anvesh66743877">
@@ -177,7 +177,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Contact
 
 For questions, suggestions, or discussions, please reach out:
-- **GitHub Issues:** Use the repository’s [issue tracker](https://github.com/anveshmuppeda/aws/issues) to report bugs or request new features.
+- **GitHub Issues:** Use the repository’s [issue tracker](https://github.com/pranithaveliverthi/aws/issues) to report bugs or request new features.
 
 ---
 
